@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+streamlit
+pandas
+openai
+requests
+networkx
+numpy
+pymysql
